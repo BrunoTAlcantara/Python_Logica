@@ -1,11 +1,3 @@
-# Principais Funções Python
-
-Os padrões usados em Python são: `snake_case`
- para **qualquer coisa**
- e `PascalCase`
- para **classes**
-.
-
 ### **If - elif - else**
 
 ```python
